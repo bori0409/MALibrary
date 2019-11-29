@@ -1,0 +1,17 @@
+C:\source\MALibrary\MALibrary\BookLibTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\source\MALibrary\MALibrary\BookLibTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\source\MALibrary\MALibrary\BookLibTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\source\MALibrary\MALibrary\BookLibTest\bin\Debug\netcoreapp2.1\BookLibTest.deps.json
+C:\source\MALibrary\MALibrary\BookLibTest\bin\Debug\netcoreapp2.1\BookLibTest.runtimeconfig.json
+C:\source\MALibrary\MALibrary\BookLibTest\bin\Debug\netcoreapp2.1\BookLibTest.runtimeconfig.dev.json
+C:\source\MALibrary\MALibrary\BookLibTest\bin\Debug\netcoreapp2.1\BookLibTest.dll
+C:\source\MALibrary\MALibrary\BookLibTest\obj\Debug\netcoreapp2.1\BookLibTest.csprojAssemblyReference.cache
+C:\source\MALibrary\MALibrary\BookLibTest\obj\Debug\netcoreapp2.1\BookLibTest.csproj.CoreCompileInputs.cache
+C:\source\MALibrary\MALibrary\BookLibTest\obj\Debug\netcoreapp2.1\BookLibTest.AssemblyInfoInputs.cache
+C:\source\MALibrary\MALibrary\BookLibTest\obj\Debug\netcoreapp2.1\BookLibTest.AssemblyInfo.cs
+C:\source\MALibrary\MALibrary\BookLibTest\bin\Debug\netcoreapp2.1\BookLibTest.pdb
+C:\source\MALibrary\MALibrary\BookLibTest\bin\Debug\netcoreapp2.1\ClassLibrary2.dll
+C:\source\MALibrary\MALibrary\BookLibTest\bin\Debug\netcoreapp2.1\ClassLibrary2.pdb
+C:\source\MALibrary\MALibrary\BookLibTest\obj\Debug\netcoreapp2.1\BookLibTest.csproj.CopyComplete
+C:\source\MALibrary\MALibrary\BookLibTest\obj\Debug\netcoreapp2.1\BookLibTest.dll
+C:\source\MALibrary\MALibrary\BookLibTest\obj\Debug\netcoreapp2.1\BookLibTest.pdb
